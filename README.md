@@ -13,6 +13,7 @@ My settings regarding Anki app, Add-ons etc.
 ### Useful websites:
 - Sound of text - https://soundoftext.com
 - Online Dictionary Helper (with Anki support) - https://github.com/ninja33/ODH
+- Lofi.cafe - https://www.lofi.cafe/
 
 To do list (check):
 - https://github.com/badlydrawnrob/anki
